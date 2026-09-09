@@ -1,0 +1,12 @@
+2026-09-07 20:06:13 EDT
+https://en.cppreference.com/cpp/error/out_of_range : Throw STD::Out_Of_Range Exception
+
+
+2026-09-07 22:09:44 EDT
+https://stackoverflow.com/questions/61886098/in-c-can-we-dereference-this-pointer-if-so-then-how-and-if-not-then-why : dereferencing this cpp
+
+2026-09-07 23:42:54 EDT
+https://www.youtube.com/watch?v=lWSoZMggqco : set precision and fixed cpp
+
+2026-09-08 15:09:42 EDT
+https://stackoverflow.com/questions/49778240/does-c11-14-17-or-20-introduce-a-standard-constant-for-pi : pi in cpp 
